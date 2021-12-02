@@ -1,0 +1,22 @@
+.root {
+    -fx-background-color: #141d26;
+    -fx-text-background-color: white;
+    -fx-font-family: "Helvetica";
+}
+
+.button {
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
+
+.button:hover {
+    -fx-background-color: #ebf5ff;
+}
+
+.button:active {
+    -fx-background-color: red;
+}
+
+.labelWelcomeText {
+    -fx-font-size: 55px;
+}
